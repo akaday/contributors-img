@@ -1,5 +1,9 @@
 # contributors-img
+<a href="https://github.com/akaday/contributors-img/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akaday/contributors-img" />
+</a>
 
+Made with [contrib.rocks](https://contrib.rocks).
 App: https://contrib.rocks
 
 ## Demo
